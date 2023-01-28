@@ -92,9 +92,4 @@ Esse projeto foi desenvolvido utilizando os seguintes recursos:
 -  [TypeScript](https://www.typescriptlang.org/).
 -  [Yup](https://github.com/jquense/yup).
 
-### :memo: License
-Esse projeto está sob MIT license. Veja [LICENSE](https://github.com/belapferreira/go-restaurant-web/blob/master/LICENSE) para mais informações.
 
----
-
-Feito por Bela Ferreira :blue_heart: Contato: https://www.linkedin.com/in/belapferreira :blush:
