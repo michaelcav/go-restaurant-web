@@ -61,7 +61,7 @@ yarn install
 
 # iniciando a fake API
 yarn server
-```
+
 # iniciando a aplicação
 yarn start
 ```
