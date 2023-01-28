@@ -50,7 +50,7 @@ Seguem as configurações neessárias para visualizar a aplicação em sua máqu
 1. Pelo terminal, acesse o diretório em que deseja ter o repositório clonado e execute o comando a seguir.
 ```bash
 # clonando o repositório
-git clone https://github.com/belapferreira/go-restaurant-web
+git clone https://github.com/michaelcav/go-restaurant-web.git
 ```
 
 ### :beginner: Iniciando a aplicação
@@ -60,7 +60,7 @@ git clone https://github.com/belapferreira/go-restaurant-web
 yarn install
 
 # iniciando a fake API
-yarn json-server server.json -p 3333
+yarn server
 ```
 ### :mag: Realizando os testes
 1. Foi usado um template que contém testes para orientar o que esperava-se dos blocos de códigos a serem programados;
