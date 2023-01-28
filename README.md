@@ -62,6 +62,9 @@ yarn install
 # iniciando a fake API
 yarn server
 ```
+# iniciando a aplicação
+yarn start
+```
 ### :mag: Realizando os testes
 1. Foi usado um template que contém testes para orientar o que esperava-se dos blocos de códigos a serem programados;
 2. Para verificar se qualquer alteração realizada atende aos requisitos solicitados, acesse o terminal e execute o seguinte comando:
